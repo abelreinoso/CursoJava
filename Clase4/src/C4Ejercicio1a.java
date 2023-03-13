@@ -26,7 +26,7 @@ public class C4Ejercicio1a {
                 }
             }
         }
-        System.out.println("El vector ordenado es:"+Arrays.toString(numeros));
+        System.out.println("El vector ordenado es: "+Arrays.toString(numeros));
     }
 
     public static void main(String[] args) {
