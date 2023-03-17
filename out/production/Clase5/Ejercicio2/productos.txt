@@ -1,0 +1,4 @@
+cantidad,precioUnitario,nombreProducto
+1,7599.99,calculadora
+2,200,chupetin
+1,500,chocolate
